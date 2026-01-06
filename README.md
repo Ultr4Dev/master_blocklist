@@ -1,4 +1,4 @@
-# Pihole Block Lists
+# Pi-hole Block Lists
 
 These lists are very unforgiving but are in fact updated multiple times per day.
 

@@ -1,6 +1,6 @@
 # Pi-hole Block Lists
 
-These lists are very unforgiving but are in fact updated multiple times per day.
+These lists are very unforgiving but are in fact updated multiple times per day if you use the bleeding-edge.
 
 | List | Note | Experimental |
 |------|------| -------------|

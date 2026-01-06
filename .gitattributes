@@ -1,1 +1,1 @@
-git lfs track "*.txt"
+git lfs track "masterlist-*.txt"
